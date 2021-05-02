@@ -64,6 +64,5 @@ The model achieved a final training loss of 0.7596, with a best validation loss 
 
 1. A jupyter notebook, `CV Complied.ipynb` has been made to facilitate the reproducibility of the project. The file can be found under the directory, `image2LaTeX/part_1-2/CV Compiled.ipynb`
    1. The second block of code has to be changed to the present working directory prior to running the notebook. A comment has been made in the notebook as well
-
-
+2. For the complex equation classification the `predict.py` file can be run. It is found in the following directory, `image2LaTeX/part_3/predict.py
 
